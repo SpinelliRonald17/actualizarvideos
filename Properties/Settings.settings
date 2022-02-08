@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ActualizadorVideos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LinkDescargas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.airescav.com/descargas/scav43-desarrollo-completo.zip</Value>
+    </Setting>
+    <Setting Name="NombreCarpetas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Prueba</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

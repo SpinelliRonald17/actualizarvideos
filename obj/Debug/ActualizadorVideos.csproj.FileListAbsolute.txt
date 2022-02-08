@@ -1,0 +1,13 @@
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\bin\Debug\ActualizadorVideos.exe.config
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\bin\Debug\ActualizadorVideos.exe
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\bin\Debug\ActualizadorVideos.pdb
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.csprojAssemblyReference.cache
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.Fprincipal.resources
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.Properties.Resources.resources
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.csproj.GenerateResource.cache
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.exe
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.pdb
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.csproj.ResolveComReference.cache
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\bin\Debug\Ionic.Zip.dll
+C:\Users\Soporte Sistemas\source\repos\ActualizadorVideos\obj\Debug\ActualizadorVideos.csproj.CopyComplete
